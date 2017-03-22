@@ -1,0 +1,46 @@
+8
+
+dir
+19
+http://code.taobao.org/svn/EASSSO/EASSSO/src
+http://code.taobao.org/svn/EASSSO
+
+
+
+2016-10-27T09:17:50.924577Z
+19
+376289885
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+425bd65d-dee1-489e-b11c-d1b60e1b9aa0
+
+com
+dir
+
+importExcel
+dir
+
+log4j.properties
+file
+
+
+
+
+2016-10-27T09:18:29.568000Z
+c99c8f0c7c119fef8cdd04df22807ab9
+2016-10-27T09:17:31.528344Z
+18
+376289885
+

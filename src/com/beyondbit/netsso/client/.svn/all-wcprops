@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/Constants.java
+END
+AuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/AuthException.java
+END
+Receipt.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/Receipt.java
+END
+WSClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/WSClient.java
+END
+SSOClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/SSOClient.java
+END
+ServiceTicketValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/EASSSO/!svn/ver/3/EASSSO/src/com/beyondbit/netsso/client/ServiceTicketValidator.java
+END
