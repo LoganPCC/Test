@@ -17,6 +17,7 @@ package com.beyondbit.netsso.client;
  * 
  */
 
+
 public class AuthException extends Exception {
 
 	/**
